@@ -1,0 +1,32 @@
+body{
+  text-align: center;
+  font-family: 'Outfit', sans-serif;
+  background-color:  hsl(212, 45%, 89%)
+
+}
+.box{
+  height:600px;
+  width: 350px;
+  background-color: White;
+  margin:200px auto ;
+  border-radius: 5%;
+  padding: 10px;
+}
+img{
+
+  border-radius: 5%;
+  width:100%;
+  position: relative;
+
+}
+h2{
+  color: hsl(218, 44%, 22%);
+  width:80%;
+  margin:30px auto
+
+}
+p{
+  color: hsl(220, 15%, 55%);
+  width: 70%;
+  margin:30px auto;
+}
