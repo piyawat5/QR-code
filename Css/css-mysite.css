@@ -5,12 +5,18 @@ body{
 
 }
 .box{
-  height:600px;
-  width: 350px;
+  height: 530px;
+  width: 330px;
   background-color: White;
-  margin:200px auto ;
-  border-radius: 5%;
-  padding: 10px;
+
+  border-radius: 1.25rem;
+  padding: 1.2rem;
+}
+main{
+display: flex;
+align-items: center;
+justify-content: center;
+min-height: 100vh;
 }
 img{
 
@@ -21,12 +27,12 @@ img{
 }
 h2{
   color: hsl(218, 44%, 22%);
-  width:80%;
+  width:90%;
   margin:30px auto
 
 }
 p{
   color: hsl(220, 15%, 55%);
-  width: 70%;
+  width: 80%;
   margin:30px auto;
 }
